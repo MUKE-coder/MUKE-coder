@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="980px" height="580px" font-family="'JetBrains Mono','Cascadia Code','Consolas','SFMono-Regular',ui-monospace,monospace" font-size="15px">
+<style>
+.key{fill:#953800;font-weight:700}
+.val{fill:#0A3069}
+.hd{fill:#1F2328;font-weight:700}
+.col{fill:#1F2328}
+.dot{fill:#C2CFDE}
+.rule{fill:#D0D7DE}
+.ascii{fill:#0E7490;font-weight:700}
+text,tspan{white-space:pre}
+</style>
+<rect width="980px" height="580px" fill="#F6F8FA" rx="12"/>
+<text class="ascii">
+<tspan x="20" y="194">      ██╗██████╗ </tspan>
+<tspan x="20" y="214">      ██║██╔══██╗</tspan>
+<tspan x="20" y="234">      ██║██████╔╝</tspan>
+<tspan x="20" y="254"> ██   ██║██╔══██╗</tspan>
+<tspan x="20" y="274"> ╚█████╔╝██████╔╝</tspan>
+<tspan x="20" y="294">  ╚════╝ ╚═════╝ </tspan>
+<tspan x="20" y="314"></tspan>
+<tspan x="20" y="334">  Muke Johnbaptist</tspan>
+<tspan x="20" y="354">  ─────────────────</tspan>
+<tspan x="20" y="374">  Fullstack · Go · Founder</tspan>
+<tspan x="20" y="394">  Kampala, Uganda</tspan>
+</text>
+<text fill="#1F2328">
+<tspan x="400" y="34"><tspan class="hd">jb@desishub</tspan> <tspan class="rule">────────────────────────────────────────────────</tspan></tspan>
+<tspan x="400" y="54"><tspan class="dot">. </tspan><tspan class="key">OS</tspan><tspan class="col">: </tspan><tspan class="dot">.................. </tspan><tspan class="val">Windows · Linux · macOS</tspan></tspan>
+<tspan x="400" y="74"><tspan class="dot">. </tspan><tspan class="key">Uptime</tspan><tspan class="col">: </tspan><tspan class="dot">.............. </tspan><tspan class="val">Shipping since 2018</tspan></tspan>
+<tspan x="400" y="94"><tspan class="dot">. </tspan><tspan class="key">Host</tspan><tspan class="col">: </tspan><tspan class="dot">................ </tspan><tspan class="val">Desishub Technologies</tspan></tspan>
+<tspan x="400" y="114"><tspan class="dot">. </tspan><tspan class="key">Editor</tspan><tspan class="col">: </tspan><tspan class="dot">.............. </tspan><tspan class="val">VS Code · Neovim</tspan></tspan>
+<tspan x="400" y="134"><tspan class="dot">. </tspan><tspan class="key">Framework</tspan><tspan class="col">: </tspan><tspan class="dot">........... </tspan><tspan class="val">Grit — my own Go meta-framework</tspan></tspan>
+<tspan x="400" y="154" class="dot"> </tspan>
+<tspan x="400" y="174"><tspan class="dot">. </tspan><tspan class="key">Languages.Backend</tspan><tspan class="col">: </tspan><tspan class="dot">... </tspan><tspan class="val">Go · Gin · GORM</tspan></tspan>
+<tspan x="400" y="194"><tspan class="dot">. </tspan><tspan class="key">Languages.Frontend</tspan><tspan class="col">: </tspan><tspan class="dot">.. </tspan><tspan class="val">TypeScript · React · Next.js</tspan></tspan>
+<tspan x="400" y="214"><tspan class="dot">. </tspan><tspan class="key">Languages.Systems</tspan><tspan class="col">: </tspan><tspan class="dot">... </tspan><tspan class="val">C++</tspan></tspan>
+<tspan x="400" y="234"><tspan class="dot">. </tspan><tspan class="key">Databases</tspan><tspan class="col">: </tspan><tspan class="dot">........... </tspan><tspan class="val">Postgres · Redis · MongoDB</tspan></tspan>
+<tspan x="400" y="254" class="dot"> </tspan>
+<tspan x="400" y="274"><tspan class="dot">. </tspan><tspan class="key">Hobbies.Software</tspan><tspan class="col">: </tspan><tspan class="dot">.... </tspan><tspan class="val">Open source · Teaching (YouTube)</tspan></tspan>
+<tspan x="400" y="294"><tspan class="dot">. </tspan><tspan class="key">Hobbies.Hardware</tspan><tspan class="col">: </tspan><tspan class="dot">.... </tspan><tspan class="val">ESP32 · Smart-home / embedded</tspan></tspan>
+<tspan x="400" y="314" class="dot"> </tspan>
+<tspan x="400" y="334"><tspan class="hd">Contact</tspan> <tspan class="rule">────────────────────────────────────────</tspan></tspan>
+<tspan x="400" y="354"><tspan class="dot">. </tspan><tspan class="key">Email.Work</tspan><tspan class="col">: </tspan><tspan class="dot">.......... </tspan><tspan class="val">jb@desishub.com</tspan></tspan>
+<tspan x="400" y="374"><tspan class="dot">. </tspan><tspan class="key">Portfolio</tspan><tspan class="col">: </tspan><tspan class="dot">........... </tspan><tspan class="val">jb.desishub.com</tspan></tspan>
+<tspan x="400" y="394"><tspan class="dot">. </tspan><tspan class="key">YouTube</tspan><tspan class="col">: </tspan><tspan class="dot">............. </tspan><tspan class="val">@JBWEBDEVELOPER</tspan></tspan>
+<tspan x="400" y="414"><tspan class="dot">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="col">: </tspan><tspan class="dot">............ </tspan><tspan class="val">muke-johnbaptist</tspan></tspan>
+<tspan x="400" y="434"><tspan class="dot">. </tspan><tspan class="key">X</tspan><tspan class="col">: </tspan><tspan class="dot">................... </tspan><tspan class="val">@MJohnbaptist</tspan></tspan>
+<tspan x="400" y="454" class="dot"> </tspan>
+<tspan x="400" y="474"><tspan class="hd">GitHub Stats</tspan> <tspan class="rule">───────────────────────────────────</tspan></tspan>
+<tspan x="400" y="494"><tspan class="dot">. </tspan><tspan class="key">Repos</tspan><tspan class="col">: </tspan><tspan class="dot">............... </tspan><tspan class="val">525</tspan></tspan>
+<tspan x="400" y="514"><tspan class="dot">. </tspan><tspan class="key">Stars</tspan><tspan class="col">: </tspan><tspan class="dot">............... </tspan><tspan class="val">12</tspan></tspan>
+<tspan x="400" y="534"><tspan class="dot">. </tspan><tspan class="key">Followers</tspan><tspan class="col">: </tspan><tspan class="dot">........... </tspan><tspan class="val">285</tspan></tspan>
+<tspan x="400" y="554"><tspan class="dot">. </tspan><tspan class="key">Following</tspan><tspan class="col">: </tspan><tspan class="dot">........... </tspan><tspan class="val">3</tspan></tspan>
+</text>
+</svg>
